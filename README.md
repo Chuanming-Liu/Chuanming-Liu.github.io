@@ -1,5 +1,6 @@
 # Academic Pages
-**Academic Pages is a Github Pages template for academic websites.**
+https://chuanming-liu.github.io/
 
-![Academic Pages template example](images/homepage.png "Academic Pages template example")
+https://academicpages.github.io/markdown/
+
 
