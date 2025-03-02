@@ -36,6 +36,9 @@ main:
 
   - title: "Research"
     url: /research/
+  
+    - title: "Models"
+    url: /models/
 
   - title: "CV"
     url: /cv/
