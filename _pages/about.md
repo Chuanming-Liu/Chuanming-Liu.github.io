@@ -24,9 +24,9 @@ My current research focuses on **advancing seismic imaging techniques** and expl
 
 ## Publications
 
-[**Google Scholar**](https://scholar.google.com/)  † equal contribution, * corresponding author
+[**Google Scholar**](https://scholar.google.com/citations?user=BY9kYV8AAAAJ&hl=en)  * corresponding author
 
-17. **Bird, E., Atterholt, J., Li, J., Biondi, E., Zhai, Q., Li, L., Yang, Y., Fang, J., Wei, X., Hjörleifsdóttir, V., Klesh, A., Kamalov, V., Gunnarsson, T., & Zhan, Z.** (2025). Constraining Dike Opening Models With Seismic Velocity Changes Associated With the 2023-2024 Eruption Sequence on the Reykjanes Peninsula. *AGU Advances*, **6**(1), e2024AV001516. [**DOI**](https://doi.org/10.1029/2024AV001516) [**PDF**]
+17. **Liu, C., Becker, T.W., Wu, M., Han, S., & Ritzwoller M.H. ** (2025).  Seismic Azimuthal Anisotropy Within the Juan de Fuca - Gorda Plates. *Geophysical Research Letters*, [**DOI**](https://doi.org/10.1029/2024GL111835) [**PDF**]
 
 16. **Shen, Z.†, Yang, Y.†, Fu, X., Adams, K. H., Biondi, E., Zhan, Z.** (2024). Fiber Seismic Sensing of Vadose Zone Soil Moisture. *Nature Communications*. [**DOI**](https://doi.org/10.1038/s41467-024-50690-6) [**PDF**] _Caltech News_
 
