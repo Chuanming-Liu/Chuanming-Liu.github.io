@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Research"
-permalink: /portfolio/
+permalink: /research/
 author_profile: true
 ---
 
@@ -15,4 +15,11 @@ I use **seismic imaging techniques** to study anisotropy and its connection to t
 - **Crustal Deformation Analysis in Alaska**
 - **Ice Flow Constraints from Seismic Anisotropy**
 
-📄 Read more in [Publications](/#publications).
+📄 Read more in my [Publications](/#publications).
+
+
+
+
+{% for post in site.portfolio %}
+  {% include archive-single.html %}
+{% endfor %}
