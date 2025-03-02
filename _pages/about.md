@@ -17,7 +17,7 @@ His current research focuses on advancing seismic imaging techniques and explori
 
 ## Publications
 
-[**Google Scholar**](https://scholar.google.com/citations?user=BY9kYV8AAAAJ&hl=en)  * corresponding author
+[Google Scholar](https://scholar.google.com/citations?user=BY9kYV8AAAAJ&hl=en)  * corresponding author
 
 11. Liu, C.*, Becker, T.W., Wu, M., Han, S., & Ritzwoller M.H. (2025).  Seismic Azimuthal Anisotropy Within the Juan de Fuca - Gorda Plates. *Geophysical Research Letters*, [DOI](https://doi.org/10.1029/2024GL111835) [PDF]
 
