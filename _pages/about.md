@@ -28,7 +28,7 @@ His current research focuses on advancing seismic imaging techniques and explori
 
 8. Liu, C.*, & Ritzwoller, M. H. (2024). Seismic anisotropy and deep crustal deformation across Alaska. *Journal of Geophysical Research: Solid Earth*, [DOI](https://doi.org/10.1029/2023JB028525) [📄PDF](/files/papers/Liu_2024_JGR_AK_TTI.pdf)
 
-7. Zheng, M., Sheehan, A. F., Liu, C., Wu, M., & Ritzwoller, M. H. (2024).  Characterizing Sub-Seafloor Seismic Structure of
+7. Zheng, M., Sheehan, A. F., **_<Liu, C.>_**, Wu, M., & Ritzwoller, M. H. (2024).  Characterizing Sub-Seafloor Seismic Structure of
 the Alaska Peninsula Along the Alaska-Aleutian Subduction Zone. *Journal of Geophysical Research: Solid Earth*, [DOI](https://doi.org/10.1029/2024jb029862) [📄PDF](/files/papers/)
 
 6. Liu, C., Zhang, S., Sheehan, A. F., & Ritzwoller, M. H. (2022). Surface Wave Isotropic and Azimuthally Anisotropic
@@ -37,7 +37,7 @@ Dispersion Across Alaska and the Alaska-Aleutian Subduction Zone. *Journal of Ge
 5. Bem, T. S., Liu, C., Yao, H., Luo, S., Yang, Y., & Liu, B. (2022). Azimuthally Anisotropic Structure in the Crust and Uppermost
 Mantle in Central East China and Its Significance to Regional Deformation Around the Tan-Lu Fault Zone. *Journal of Geophysical Research: Solid Earth*, [DOI](https://doi.org/10.1029/2021jb023532) [📄PDF](/files/papers/)
 
-4. Z Zhang, Z., Yao, H., Wang, W., & Liu, C.  (2022). 3-D Crustal Azimuthal Anisotropy Reveals Multi-Stage Deformation
+4. Zhang, Z., Yao, H., Wang, W., & Liu, C.  (2022). 3-D Crustal Azimuthal Anisotropy Reveals Multi-Stage Deformation
 Processes of the Sichuan Basin and Its Adjacent Area, SW China. *Journal of Geophysical Research: Solid Earth*, [DOI](https://doi.org/10.1029/2021jb023289) [📄PDF](/files/papers/)
 
 3. Feng, L., Liu, C., & Ritzwoller, M. H. (2020). Azimuthal Anisotropy of the Crust and Uppermost Mantle Beneath Alaska. *Journal of Geophysical Research: Solid Earth*, [DOI](https://doi.org/10.1029/2020jb020076) [📄PDF](/files/papers/)
