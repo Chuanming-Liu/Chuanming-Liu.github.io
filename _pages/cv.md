@@ -1,5 +1,3 @@
-
-
 ---
 layout: single
 title: "Curriculum Vitae"
@@ -12,4 +10,4 @@ redirect_from:
 ## 📄 Download My CV
 
 You can download my full CV as a **PDF** here:  
-[📄 **Download CV**](/files/CV_Chuanming_Liu.pdf )
+[📄 **Download CV**](/files/CV_Chuanming_Liu.pdf)
