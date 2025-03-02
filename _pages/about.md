@@ -15,8 +15,8 @@ His current research focuses on advancing seismic imaging techniques and explori
 
 ---
 
-<!-- ## Publications -->
-## [📄 Publications](publications/#publications)
+<!-- Publications Section -->
+## <a id="publications"></a> 📄 Publications
 
 [Google Scholar](https://scholar.google.com/citations?user=BY9kYV8AAAAJ&hl=en)  * corresponding author
 
