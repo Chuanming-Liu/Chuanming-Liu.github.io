@@ -34,11 +34,11 @@ author:
   # arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.com/citations?user=BY9kYV8AAAAJ&hl=en"
   # impactstory      : # URL
-  orcid            : "https://orcid.org/0000-0001-8301-9150"
+  
   github           : "https://github.com/Chuanming-Liu"
   # semantic         : # URL
   # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : "https://www.researchgate.net/profile/Chuanming-Liu-4"
+  
   # scopus           : "https://www.scopus.com/authid/detail.uri?authorId=57193427906"
 
   # Repositories and software development
@@ -48,7 +48,8 @@ author:
 
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
-
+  researchgate     : "https://www.researchgate.net/profile/Chuanming-Liu-4"
+  orcid            : "https://orcid.org/0000-0001-8301-9150"
   # Social media
   linkedin         : "https://www.linkedin.com/in/chuanming-liu"
   twitter          : # Username for X / Twitter
