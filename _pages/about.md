@@ -19,31 +19,24 @@ His current research focuses on advancing seismic imaging techniques and explori
 ## 📄 Publications {#publications}
 
 
-
 [Google Scholar](https://scholar.google.com/citations?user=BY9kYV8AAAAJ&hl=en)  * corresponding author
 
-10. Liu, C.*, Becker, T.W., Wu, M., Han, S., & Ritzwoller M.H. (2024).  Seismic Azimuthal Anisotropy Within the Juan de Fuca - Gorda Plates. *Geophysical Research Letters*, [DOI](https://doi.org/10.1029/2024GL111835) [📄PDF](/files/papers/Liu_2024_GRL_JdF.pdf)
+10. **Liu, C.**\*, Becker, T.W., Wu, M., Han, S., & Ritzwoller M.H. (2024).  Seismic Azimuthal Anisotropy Within the Juan de Fuca - Gorda Plates. *Geophysical Research Letters*, [DOI](https://doi.org/10.1029/2024GL111835) [📄PDF](/files/papers/Liu_2024_GRL_JdF.pdf)
 
-9. Liu, C.*, Sheehan A.F., Ritzwoller M.H. (2024). Seismic Azimuthal Anisotropy Beneath the Alaska-Aleutian Subduction Zone. *Geophysical Research Letters*, [DOI](https://doi.org/10.1029/2024GL109758) [📄PDF](/files/papers/Liu_2024_GRL_Alu.pdf)
+9. **Liu, C.**\*, Sheehan A.F., Ritzwoller M.H. (2024). Seismic Azimuthal Anisotropy Beneath the Alaska-Aleutian Subduction Zone. *Geophysical Research Letters*, [DOI](https://doi.org/10.1029/2024GL109758) [📄PDF](/files/papers/Liu_2024_GRL_Alu.pdf)
 
-8. Liu, C.*, & Ritzwoller, M. H. (2024). Seismic anisotropy and deep crustal deformation across Alaska. *Journal of Geophysical Research: Solid Earth*, [DOI](https://doi.org/10.1029/2023JB028525) [📄PDF](/files/papers/Liu_2024_JGR_AK_TTI.pdf)
+8. **Liu, C.**\*, & Ritzwoller, M. H. (2024). Seismic anisotropy and deep crustal deformation across Alaska. *Journal of Geophysical Research: Solid Earth*, [DOI](https://doi.org/10.1029/2023JB028525) [📄PDF](/files/papers/Liu_2024_JGR_AK_TTI.pdf)
 
-7. Zheng, M., Sheehan, A. F., **_<Liu, C.>_**, Wu, M., & Ritzwoller, M. H. (2024).  Characterizing Sub-Seafloor Seismic Structure of
-the Alaska Peninsula Along the Alaska-Aleutian Subduction Zone. *Journal of Geophysical Research: Solid Earth*, [DOI](https://doi.org/10.1029/2024jb029862) [📄PDF](/files/papers/)
+7. Zheng, M., Sheehan, A. F., **Liu, C.**, Wu, M., & Ritzwoller, M. H. (2024). Characterizing Sub-Seafloor Seismic Structure of the Alaska Peninsula Along the Alaska-Aleutian Subduction Zone. *Journal of Geophysical Research: Solid Earth*, [DOI](https://doi.org/10.1029/2024jb029862) [📄PDF](/files/papers/)
 
-6. Liu, C., Zhang, S., Sheehan, A. F., & Ritzwoller, M. H. (2022). Surface Wave Isotropic and Azimuthally Anisotropic
-Dispersion Across Alaska and the Alaska-Aleutian Subduction Zone. *Journal of Geophysical Research: Solid Earth*, [DOI](https://doi.org/10.1029/2022jb024885) [📄PDF](/files/papers/)
+6. **Liu, C.**, Zhang, S., Sheehan, A. F., & Ritzwoller, M. H. (2022). Surface Wave Isotropic and Azimuthally Anisotropic Dispersion Across Alaska and the Alaska-Aleutian Subduction Zone. *Journal of Geophysical Research: Solid Earth*, [DOI](https://doi.org/10.1029/2022jb024885) [📄PDF](/files/papers/)
 
-5. Bem, T. S., Liu, C., Yao, H., Luo, S., Yang, Y., & Liu, B. (2022). Azimuthally Anisotropic Structure in the Crust and Uppermost
-Mantle in Central East China and Its Significance to Regional Deformation Around the Tan-Lu Fault Zone. *Journal of Geophysical Research: Solid Earth*, [DOI](https://doi.org/10.1029/2021jb023532) [📄PDF](/files/papers/)
+5. Bem, T. S., **Liu, C.**, Yao, H., Luo, S., Yang, Y., & Liu, B. (2022). Azimuthally Anisotropic Structure in the Crust and Uppermost Mantle in Central East China and Its Significance to Regional Deformation Around the Tan-Lu Fault Zone. *Journal of Geophysical Research: Solid Earth*, [DOI](https://doi.org/10.1029/2021jb023532) [📄PDF](/files/papers/)
 
-4. Zhang, Z., Yao, H., Wang, W., & Liu, C.  (2022). 3-D Crustal Azimuthal Anisotropy Reveals Multi-Stage Deformation
-Processes of the Sichuan Basin and Its Adjacent Area, SW China. *Journal of Geophysical Research: Solid Earth*, [DOI](https://doi.org/10.1029/2021jb023289) [📄PDF](/files/papers/)
+4. Zhang, Z., Yao, H., Wang, W., & **Liu, C.** (2022). 3-D Crustal Azimuthal Anisotropy Reveals Multi-Stage Deformation Processes of the Sichuan Basin and Its Adjacent Area, SW China. *Journal of Geophysical Research: Solid Earth*, [DOI](https://doi.org/10.1029/2021jb023289) [📄PDF](/files/papers/)
 
-3. Feng, L., Liu, C., & Ritzwoller, M. H. (2020). Azimuthal Anisotropy of the Crust and Uppermost Mantle Beneath Alaska. *Journal of Geophysical Research: Solid Earth*, [DOI](https://doi.org/10.1029/2020jb020076) [📄PDF](/files/papers/)
+3. Feng, L., **Liu, C.**, & Ritzwoller, M. H. (2020). Azimuthal Anisotropy of the Crust and Uppermost Mantle Beneath Alaska. *Journal of Geophysical Research: Solid Earth*, [DOI](https://doi.org/10.1029/2020jb020076) [📄PDF](/files/papers/)
 
-2. Liu, C., Yao, H., Yang, H., Shen, W., Fang, H., Hu, S., & Qiao, L. (2019). Direct Inversion for Three-Dimensional Shear Wave
-Speed Azimuthal Anisotropy Based on Surface Wave Ray Tracing: Methodology and Application to Yunnan, Southwest China. *Journal of Geophysical Research: Solid Earth*, [DOI](https://doi.org/10.1029/2018jb016920) [📄PDF](/files/papers/)
+2. **Liu, C.**, Yao, H., Yang, H., Shen, W., Fang, H., Hu, S., & Qiao, L. (2019). Direct Inversion for Three-Dimensional Shear Wave Speed Azimuthal Anisotropy Based on Surface Wave Ray Tracing: Methodology and Application to Yunnan, Southwest China. *Journal of Geophysical Research: Solid Earth*, [DOI](https://doi.org/10.1029/2018jb016920) [📄PDF](/files/papers/)
 
-1. Liu, C., & Yao, H. (2017). (2020). Surface Wave Tomography with Spatially Varying Smoothing Based on Continuous Model
-Regionalization. *Pure and Applied Geophysics*, [DOI]( https://doi.org/10.1007/s00024-016-1434-5) [📄PDF](/files/papers/)
+1. **Liu, C.**, & Yao, H. (2017). Surface Wave Tomography with Spatially Varying Smoothing Based on Continuous Model Regionalization. *Pure and Applied Geophysics*, [DOI](https://doi.org/10.1007/s00024-016-1434-5) [📄PDF](/files/papers/)
