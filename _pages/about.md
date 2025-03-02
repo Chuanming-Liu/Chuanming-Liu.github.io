@@ -19,8 +19,8 @@ His current research focuses on advancing seismic imaging techniques and explori
 
 [Google Scholar](https://scholar.google.com/citations?user=BY9kYV8AAAAJ&hl=en)  * corresponding author
 
-11. Liu, C.*, Becker, T.W., Wu, M., Han, S., & Ritzwoller M.H. (2025).  Seismic Azimuthal Anisotropy Within the Juan de Fuca - Gorda Plates. *Geophysical Research Letters*, [DOI](https://doi.org/10.1029/2024GL111835) [PDF]
+11. Liu, C.*, Becker, T.W., Wu, M., Han, S., & Ritzwoller M.H. (2025).  Seismic Azimuthal Anisotropy Within the Juan de Fuca - Gorda Plates. *Geophysical Research Letters*, [DOI](https://doi.org/10.1029/2024GL111835) [📄PDF](/files/papers/Liu_2024_GRL_JdF.pdf)
 
-10. Liu, C.*, Sheehan A.F., Ritzwoller M.H. (2024). Seismic Azimuthal Anisotropy Beneath the Alaska-Aleutian Subduction Zone. *Geophysical Research Letters*, [DOI](https://doi.org/10.1029/2024GL109758) [PDF]
+10. Liu, C.*, Sheehan A.F., Ritzwoller M.H. (2024). Seismic Azimuthal Anisotropy Beneath the Alaska-Aleutian Subduction Zone. *Geophysical Research Letters*, [DOI](https://doi.org/10.1029/2024GL109758) [📄PDF](/files/papers/Liu_2024_GRL_Alu.pdf)
 
-9. Liu, C.*, & Ritzwoller, M. H. (2024). Seismic anisotropy and deep crustal deformation across Alaska. *Geophysical Research Letters*, [DOI](https://doi.org/10.1029/2023JB028525) [PDF]
+9. Liu, C.*, & Ritzwoller, M. H. (2024). Seismic anisotropy and deep crustal deformation across Alaska. *Journal of Geophysical Research: Solid Earth*, [DOI](https://doi.org/10.1029/2023JB028525) [📄PDF](/files/papers/Liu_2024_JGR_AK_TTI.pdf)
