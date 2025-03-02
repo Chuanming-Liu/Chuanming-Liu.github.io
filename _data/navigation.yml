@@ -35,7 +35,7 @@ main:
     url: /#publications  # Links directly to the Publications section on home page
 
   - title: "Research"
-    url: /portfolio/
+    url: /research/
 
   - title: "CV"
     url: /cv/
