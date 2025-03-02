@@ -11,6 +11,10 @@ author_profile: true
 
 {% include base_path %}
 
+<!-- Anchor to allow direct linking from the homepage -->
+<h2 id="publications">Publications</h2>
+<hr />
+
 <!-- New style rendering if publication categories are defined -->
 {% if site.publication_category %}
   {% for category in site.publication_category  %}
@@ -31,6 +35,3 @@ author_profile: true
     {% include archive-single.html %}
   {% endfor %}
 {% endif %}
-
-
-
