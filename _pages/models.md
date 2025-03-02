@@ -5,8 +5,6 @@ permalink: /models/
 author_profile: true
 ---
 
-## Seismic Dataset and Models
-
 ### **1. Seismic Anisotropy TTI Model for the Alaska Continent**
 A TTI model including dip angle estimates (wo-layer model) for the anisotropic foliation plane across the Alaska continent.  
 
