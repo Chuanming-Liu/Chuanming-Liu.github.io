@@ -20,6 +20,5 @@ I use **seismic imaging techniques** to study anisotropy and its connection to t
 
 
 
-{% for post in site.portfolio %}
-  {% include archive-single.html %}
-{% endfor %}
+
+
