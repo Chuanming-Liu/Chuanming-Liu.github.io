@@ -42,9 +42,9 @@
 
 
 .author__avatar img {
-    max-width: 120px;  /* Adjust size */
+    max-width: 150px;  /* Adjust size */
     height: auto;
-    border-radius: 50%;  /* Makes it circular */
-    object-fit: contain;  /* Ensures the image fits properly */
+    display: block !important;  /* Ensure it is visible */
+    border-radius: 50%;  /* Make it circular */
+    object-fit: cover;
   }
-  
