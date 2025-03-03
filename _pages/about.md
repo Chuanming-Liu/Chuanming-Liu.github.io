@@ -40,3 +40,15 @@ His current research focuses on advancing seismic imaging techniques and explori
 2. **Liu, C.**, Yao, H., Yang, H., Shen, W., Fang, H., Hu, S., & Qiao, L. (2019). Direct Inversion for Three-Dimensional Shear Wave Speed Azimuthal Anisotropy Based on Surface Wave Ray Tracing: Methodology and Application to Yunnan, Southwest China. *Journal of Geophysical Research: Solid Earth*, [DOI](https://doi.org/10.1029/2018jb016920) [PDF](/files/papers/Liu_2019_JGR_DsurfAzim.pdf)
 
 1. **Liu, C.**, & Yao, H. (2017). Surface Wave Tomography with Spatially Varying Smoothing Based on Continuous Model Regionalization. *Pure and Applied Geophysics*, [DOI](https://doi.org/10.1007/s00024-016-1434-5) [PDF](/files/papers/Liu_2017_PAGeo_Method.pdf)
+
+
+---
+## 📬 Contact
+
+**Email:**  
+chuanming.liu@jsg.utexas.edu  
+
+**Address:**  
+University of Texas Institute for Geophysics, UT Austin  
+10601 Exploration Way, Building 196  
+Austin, TX 78758
