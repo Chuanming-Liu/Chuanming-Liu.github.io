@@ -49,25 +49,12 @@
     object-fit: cover;
   }
 
-  #about, #about p {
-    font-size: 0.8em;
-    line-height: 1.6;
-  }
 
-// /* Increase Font Size for About Section */
-// h2 {
-//   font-size: 28px; /* Adjust as needed */
-// }
+/* Ensure the About section text is styled properly */
+#about, #about p {
+  font-size: 0.2em !important; /* Adjust font size */
+  line-height: 1.6; /* Improve readability */
+  color: #333; /* Optional: Adjust text color */
+}
 
-// #about {
-//   font-family: "Georgia", serif; /* Change to your preferred font */
-//   font-size: 0.4em; /* Adjust font size */
-//   line-height: 1.8; /* Improve readability */
-//   color: #333; /* Optional: Adjust text color */
-// }
-
-// #about, #about p {
-//   font-size: 10px !important; /* Adjust body text size */
-//   line-height: 1.8; /* Improve readability */
-//   color: #333; /* Optional: Adjust text color for better readability */
-// }
+ 
