@@ -5,8 +5,6 @@ permalink: /research/
 author_profile: true
 ---
 
-## My Research Areas
-
 ### **Crustal Deformation and Seismic Anisotropy**
 Seismic anisotropy provides valuable insights into crustal deformation processes. In Alaska, seismic observations reveal patterns of anisotropy that help characterize lithospheric deformation and geodynamic evolution.
 

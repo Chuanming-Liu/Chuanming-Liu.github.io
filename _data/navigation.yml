@@ -2,13 +2,13 @@ main:
   - title: "About"
     url: /
 
-  - title: "Research"
-    url: /research/
-
   - title: "Publications"
     url: /#publications
 
-  - title: "Models"
+  - title: "Research"
+    url: /research/
+
+  - title: "Seismic Models"
     url: /models/
 
   - title: "CV"
