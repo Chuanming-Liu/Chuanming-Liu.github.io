@@ -43,6 +43,20 @@ His current research focuses on advancing seismic imaging techniques and explori
 
 
 ---
+## 🎓 Teaching
+
+### **Guest Lecturer**
+- GEOL 384D – Physics of Earth** (Spring 2024, UT Austin)  
+- GEOL 371D – Tectonic Geodynamics** (Spring 2025, UT Austin)  
+
+### **Teaching Assistant**
+- PHYS 1110 – General Physics I** (Spring 2020, CU Boulder)  
+- PHYS 1120 – General Physics II** (Spring 2019, CU Boulder)  
+- PHYS 1140 – Experimental Physics I** (Fall 2017, Spring 2018, CU Boulder) 
+
+
+
+
 ## 📬 Contact
 
 **Email:**  
