@@ -55,6 +55,11 @@
 // }
 
 #about {
-  font-size: 6px; /* Adjust paragraph text size */
+  font-size: 18px !important; /* Adjust paragraph text size */
   line-height: 1.6; /* Improve readability */
+}
+#about, #about p {
+  font-size: 10px !important; /* Adjust body text size */
+  line-height: 1.8; /* Improve readability */
+  color: #333; /* Optional: Adjust text color for better readability */
 }
