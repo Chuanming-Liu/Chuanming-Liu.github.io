@@ -12,9 +12,9 @@ title                    : "Home"
 title_separator          : "-"
 name                     : &name "Chuanming Liu"
 description              : &description ""
-url                      : https://Chuanming-Liu.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+url                      : "https://chuanming-liu.github.io" # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "Chuanming-Liu/Chuanming-Liu.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -31,28 +31,31 @@ author:
   email            : "chuanming.liu@jsg.utexas.edu" 
 
   # Academic websites
+
+  googlescholar: "BY9kYV8AAAAJ"     # just the user id
+  github: "Chuanming-Liu"          # username only
+  researchgate: "Chuanming-Liu-4"  # slug only (if your theme supports it)
+  orcid: "0000-0001-8301-9150"     # id only
+  linkedin: "chuanming-liu"        # slug only (this one is already OK
   # arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=BY9kYV8AAAAJ&hl=en"
   # impactstory      : # URL
-  
-  github           : "https://github.com/Chuanming-Liu"
   # semantic         : # URL
   # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   
   # scopus           : "https://www.scopus.com/authid/detail.uri?authorId=57193427906"
 
   # Repositories and software development
-  bitbucket        : # Username - Update with your username on the site
-  codepen          : # Username
-  dribbble         : # Username
+  #bitbucket        : # Username - Update with your username on the site
+  #codepen          : # Username
+  #dribbble         : # Username
 
-  kaggle           : # Username  
-  stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
-  researchgate     : "https://www.researchgate.net/profile/Chuanming-Liu-4"
-  orcid            : "https://orcid.org/0000-0001-8301-9150"
+  #kaggle           : # Username  
+  #stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
+  #researchgate     : "https://www.researchgate.net/profile/Chuanming-Liu-4"
+  #orcid            : "https://orcid.org/0000-0001-8301-9150"
   # Social media
-  linkedin         : "chuanming-liu"
-  twitter          : # Username for X / Twitter
+  #linkedin         : "chuanming-liu"
+  #twitter          : # Username for X / Twitter
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
