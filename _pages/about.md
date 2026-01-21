@@ -50,6 +50,7 @@ His current research focuses on advancing seismic imaging techniques and explori
 
 ---
 ## 🎓 Teaching
+- GEOL 1050 – Planet Earth (Spring 2026, University of Missouri-Columbia)
 
 ### **Guest Lecturer**
 - GEOL 384D – Physics of Earth (Spring 2024, UT Austin)  
@@ -66,9 +67,9 @@ His current research focuses on advancing seismic imaging techniques and explori
 ## 📬 Contact
 
 **Email:**  
-chuanming.liu@jsg.utexas.edu  
+chuanming.liu@missouri.edu
 
 **Address:**  
-University of Texas Institute for Geophysics, UT Austin  
-10601 Exploration Way, Building 196  
-Austin, TX 78758
+University of Missouri-Columbia
+Geological Sciences | Columbia, MO 65211
+
