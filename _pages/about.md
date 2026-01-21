@@ -71,6 +71,8 @@ chuanming.liu@missouri.edu
 
 **Address:**  
 Department of Geological Sciences
+
 University of Missouri–Columbia
+
 Columbia, MO 65211
 
