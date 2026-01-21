@@ -70,6 +70,7 @@ His current research focuses on advancing seismic imaging techniques and explori
 chuanming.liu@missouri.edu
 
 **Address:**  
-University of Missouri-Columbia
-Geological Sciences | Columbia, MO 65211
+Department of Geological Sciences
+University of Missouri–Columbia
+Columbia, MO 65211
 
