@@ -11,8 +11,9 @@ redirect_from:
 
 
 
-Chuanming Liu is the Distinguished Postdoctoral Fellow at the Jackson School of Geosciences and a postdoctoral researcher at the University of Texas Institute for Geophysics. He is interested in using seismic imaging and advanced inversion techniques to investigate Earth’s subsurface dynamics, particularly seismic anisotropy and its connection to tectonic processes. By utilizing global seismic datasets—such as surface and body waves extracted from ambient seismic noise and teleseismic earthquakes—and developing novel imaging tools, he has constructed 3D isotropic and anisotropic seismic models for the Alaskan continent, the Aleutian subduction zone, and the Juan de Fuca-Gorda plates. These models have provided new insights into the tectonic processes shaping these regions.
+Chuanming Liu is an Assistant Professor in the Department of Geological Sciences at the University of Missouri–Columbia, beginning in 2026. He was a JSG Distinguished Postdoctoral Fellow at the Jackson School of Geosciences at The University of Texas at Austin, where he collaborated with Dr. Thorsten Becker. He earned his Ph.D. in 2023 from the University of Colorado Boulder under the supervision of Dr. Michael Ritzwoller.
 
+He is interested in using seismic imaging and advanced inversion techniques to investigate Earth’s subsurface dynamics, particularly seismic anisotropy and its connection to tectonic processes. By utilizing global seismic datasets—such as surface and body waves extracted from ambient seismic noise and teleseismic earthquakes—and developing novel imaging tools, he has constructed 3D isotropic and anisotropic seismic models for the Alaskan continent, the Aleutian subduction zone, and the Juan de Fuca-Gorda plates. These models have provided new insights into the tectonic processes shaping these regions.
 
 
 His current research focuses on advancing seismic imaging techniques and exploring the interplay between seismic anisotropy, deformation, and geodynamic processes across various geological settings, including subduction zones, large-scale strike-slip fault systems, and ice flow regions.
