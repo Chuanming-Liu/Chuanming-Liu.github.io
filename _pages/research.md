@@ -22,7 +22,7 @@ The Juan de Fuca and Gorda plates are characterized by significant seismic aniso
 
 ![Juan de Fuca-Gorda Plates](/images/fig_jdf_gorda.png)
 
-### **New Methods for Seismic imaging**
+### **New Methods for Seismic Imaging**
 
 ### **3.1 Three-Station Ambient Noise Interferometry in Alaska/Aleutian**
 Three-station ambient noise interferometry is a powerful technique to extract surface wave dispersion and improve seismic anisotropy imaging. This method enhances resolution in remote regions like Alaska and the Aleutian subduction zone.
