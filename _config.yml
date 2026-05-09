@@ -34,8 +34,8 @@ author:
 
   googlescholar: "BIhknmEAAAAJ"     # just the user id
   github: "Chuanming-Liu"          # username only
-  researchgate: "Chuanming-Liu-4"  # slug only (if your theme supports it)
-  orcid: "0000-0001-8301-9150"     # id only
+  # researchgate: "Chuanming-Liu-4"  # slug only (if your theme supports it)
+  orcid: "https://orcid.org/0000-0001-8301-9150"
   linkedin: "chuanming-liu"        # slug only (this one is already OK
   # arxiv            : # URL - Update with the correct link to your profile
   # impactstory      : # URL
