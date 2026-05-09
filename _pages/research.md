@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 
-### **Crustal Deformation and Seismic Anisotropy**
+### **Seismic Anisotropy in Continental Regions**
 
 ### **1.1 Alaska**
 Seismic anisotropy provides valuable insights into crustal deformation processes. In Alaska, seismic observations reveal patterns of anisotropy that help characterize lithospheric deformation and geodynamic evolution.
