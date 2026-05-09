@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 
-### **Seismic Anisotropy in Continental Regions**
+## **Seismic Anisotropy in Continental Regions**
 
 ### **1.1 Alaska**
 Seismic anisotropy provides valuable insights into crustal deformation processes. In Alaska, seismic observations reveal patterns of anisotropy that help characterize lithospheric deformation and geodynamic evolution.
@@ -17,7 +17,7 @@ The Anatolian Plate is a tectonically active region bounded by the North Anatoli
 
 ![Anatolia Seismic Anisotropy](/images/fig_anatolia.png)
 
-### **Seismic Anisotropy at Oceanic Plates and Subduction Zones**
+## **Seismic Anisotropy at Oceanic Plates and Subduction Zones**
 
 ### **2.1 Aleutian Subduction Zone**
 Seismic anisotropy in the Aleutian subduction zone sheds light on mantle flow and slab dynamics. The complex interactions between the subducting slab and the overriding lithosphere influence anisotropic signatures observed in seismic data.
@@ -29,7 +29,7 @@ The Juan de Fuca and Gorda plates are characterized by significant seismic aniso
 
 ![Juan de Fuca-Gorda Plates](/images/fig_jdf_gorda.png)
 
-### **New Methods for Seismic Imaging**
+## **New Methods for Seismic Imaging**
 
 ### **3.1 Three-Station Ambient Noise Interferometry in Alaska/Aleutian**
 Three-station ambient noise interferometry is a powerful technique to extract surface wave dispersion and improve seismic anisotropy imaging. This method enhances resolution in remote regions like Alaska and the Aleutian subduction zone.
