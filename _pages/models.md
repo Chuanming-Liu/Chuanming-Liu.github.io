@@ -27,6 +27,21 @@ A surface wave dispersion dataset that includes **isotropic and anisotropic** ph
 ---
 
 ### **4. Seismic Azimuthal Anisotropy Model Beneath the Aleutian Subduction Zone**
-A **three-layered** seismic azimuthal anisotropy model for the **forearc region** of the Aleutian subduction zone, based on Rayleigh wave dispersion (10–85 s).  
+A **three-layered** seismic azimuthal anisotropy model for the **forearc region** of the Aleutian subduction zone, based on Rayleigh wave dispersion (10–85 s).
 
 📥 Download Model: [Zenodo DOI](https://zenodo.org/records/10975885)
+
+---
+
+### **5. Layered Seismic Anisotropy Model of the Anatolian Plate**
+
+**a. Three-layered seismic azimuthal anisotropy model**
+A three-layered seismic azimuthal anisotropy model for the Anatolian Plate, based on Rayleigh wave dispersion (8–80 s).
+
+**b. Receiver function A1max anisotropy**
+Receiver function harmonic decomposition results showing crustal anisotropy (A1max) across the Anatolian Plate.
+
+**c. Shear wave splitting models**
+Shear wave splitting one-layer and two-layer models for the Anatolian Plate region.
+
+📥 Download Model: [Zenodo DOI](https://zenodo.org/records/17306944)
