@@ -41,7 +41,7 @@ Three-station ambient noise interferometry is a powerful technique to extract su
 ![Ambient Noise Interferometry](/images/fig_ambient_noise.png)
 
 ### **3.2 Direct Inversion for Azimuthal Anisotropy**
-Direct inversion techniques allow for a more accurate estimation of azimuthal anisotropy from surface wave dispersion. These methods contribute to refining models of upper mantle flow and deformation patterns. [PDF](/files/papers/Liu_2019_JGR_DsurfAzim.pdf)
+Direct inversion techniques allow for a more accurate estimation of azimuthal anisotropy from surface wave dispersion. These methods contribute to refining models of upper mantle flow and deformation patterns. [PDF](/files/papers/Liu_2019_JGR_DsurfAzim.pdf) <a href="https://github.com/Chuanming-Liu/DAzimSurfTomo"><i class="fab fa-github"></i> GitHub</a>
 
 ![Azimuthal Anisotropy Inversion](/images/fig_azimuthal_inversion.png)
 
