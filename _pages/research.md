@@ -6,9 +6,16 @@ author_profile: true
 ---
 
 ### **Crustal Deformation and Seismic Anisotropy**
+
+### **1.1 Alaska**
 Seismic anisotropy provides valuable insights into crustal deformation processes. In Alaska, seismic observations reveal patterns of anisotropy that help characterize lithospheric deformation and geodynamic evolution.
 
 ![Crustal Deformation](/images/fig_crustal_deformation.png)
+
+### **1.2 Anatolian Plate**
+The Anatolian Plate is a tectonically active region bounded by the North Anatolian Fault and East Anatolian Fault, caught between the converging Eurasian and Arabian plates. Seismic anisotropy observations reveal depth-dependent deformation patterns, with crustal anisotropy correlating with surface strain rates and receiver function anisotropy, while asthenospheric anisotropy shows distinct patterns related to mantle flow beneath the escaping Anatolian block.
+
+![Anatolia Seismic Anisotropy](/images/fig_anatolia.png)
 
 ### **Seismic Anisotropy at Oceanic Plates and Subduction Zones**
 
@@ -33,10 +40,5 @@ Three-station ambient noise interferometry is a powerful technique to extract su
 Direct inversion techniques allow for a more accurate estimation of azimuthal anisotropy from surface wave dispersion. These methods contribute to refining models of upper mantle flow and deformation patterns.
 
 ![Azimuthal Anisotropy Inversion](/images/fig_azimuthal_inversion.png)
-
-### **Seismic Anisotropy and Tectonics in Anatolia**
-The Anatolian Plate is a tectonically active region bounded by the North Anatolian Fault and East Anatolian Fault, caught between the converging Eurasian and Arabian plates. Seismic anisotropy observations reveal depth-dependent deformation patterns, with crustal anisotropy correlating with surface strain rates and receiver function anisotropy, while asthenospheric anisotropy shows distinct patterns related to mantle flow beneath the escaping Anatolian block.
-
-![Anatolia Seismic Anisotropy](/images/fig_anatolia.png)
 
 Read more in my [Publications](/#publications).
