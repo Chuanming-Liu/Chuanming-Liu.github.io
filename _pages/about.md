@@ -9,7 +9,7 @@ redirect_from:
 
 ## <span id="about">About</span>
 
-
+![Title Logos](/images/title_logos.png)
 
 Chuanming Liu is an Assistant Professor in the Department of Geological Sciences at the University of Missouri–Columbia, beginning in 2026. He was a JSG Distinguished Postdoctoral Fellow at the Jackson School of Geosciences at The University of Texas at Austin, where he collaborated with Dr. Thorsten Becker. He earned his Ph.D. in 2023 from the University of Colorado Boulder under the supervision of Dr. Michael Ritzwoller.
 
