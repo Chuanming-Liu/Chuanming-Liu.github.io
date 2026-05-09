@@ -17,6 +17,8 @@ The Anatolian Plate is a tectonically active region bounded by the North Anatoli
 
 ![Anatolia Seismic Anisotropy](/images/fig_anatolia.png)
 
+&nbsp;
+
 ## **Seismic Anisotropy at Oceanic Plates and Subduction Zones**
 
 ### **2.1 Aleutian Subduction Zone**
@@ -28,6 +30,8 @@ Seismic anisotropy in the Aleutian subduction zone sheds light on mantle flow an
 The Juan de Fuca and Gorda plates are characterized by significant seismic anisotropy due to plate bending, hydration, and subduction processes. Understanding these anisotropic patterns helps constrain the stress and deformation history of oceanic plates.
 
 ![Juan de Fuca-Gorda Plates](/images/fig_jdf_gorda.png)
+
+&nbsp;
 
 ## **New Methods for Seismic Imaging**
 
