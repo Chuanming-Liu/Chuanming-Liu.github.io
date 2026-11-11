@@ -399,3 +399,51 @@
   font-size: $type-size-6;
   text-transform: uppercase;
 }
+
+/* News list (homepage + /news/) */
+.news-list {
+  list-style: none;
+  margin-left: 0;
+  padding-left: 0;
+
+  li {
+    display: flex;
+    gap: 1em;
+    margin-bottom: 0.6em;
+
+    @media (max-width: 600px) {
+      flex-direction: column;
+      gap: 0.1em;
+      margin-bottom: 1em;
+
+      .news-date { flex-basis: auto; }
+    }
+  }
+
+  .news-date {
+    flex: 0 0 5.5em;
+    font-weight: bold;
+    color: $gray;
+    white-space: nowrap;
+  }
+
+  .news-text { flex: 1; min-width: 0; }
+
+  .news-figure {
+    margin: 0.5em 0 0;
+    display: block;
+
+    figcaption {
+      margin-top: 0.3em;
+      font-family: $global-font-family;
+      font-size: $type-size-6;
+      color: $gray;
+    }
+  }
+
+  .news-image {
+    display: block;
+    max-width: 100%;
+    border-radius: 4px;
+  }
+}

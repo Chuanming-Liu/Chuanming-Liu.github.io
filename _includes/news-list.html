@@ -1,0 +1,11 @@
+{% comment %}Usage: {% include news-list.html limit=5 %} (omit limit for all items){% endcomment %}
+{% assign items = site.data.news %}
+{% if include.limit %}{% assign items = site.data.news | slice: 0, include.limit %}{% endif %}
+<ul class="news-list">
+{% for item in items %}
+  {% assign d = item.date | append: "" %}
+  <li><span class="news-date">{% if d.size >= 7 %}{{ d | append: "-01" | slice: 0, 10 | date: "%b %Y" }}{% else %}{{ d }}{% endif %}</span>
+    <span class="news-text">{{ item.text | markdownify | remove: '<p>' | remove: '</p>' }}
+      {% if item.image %}<figure class="news-figure"><img class="news-image" src="{{ item.image | relative_url }}" alt="{{ item.caption | default: item.text | strip_html | truncatewords: 12 }}">{% if item.caption %}<figcaption>{{ item.caption | markdownify | remove: '<p>' | remove: '</p>' }}</figcaption>{% endif %}</figure>{% endif %}</span></li>
+{% endfor %}
+</ul>

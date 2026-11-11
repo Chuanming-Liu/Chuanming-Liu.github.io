@@ -1,0 +1,42 @@
+# News items, newest first. `date` is YYYY-MM (or YYYY-MM-DD); `text` is Markdown; `image` and `caption` are optional.
+# The homepage shows the first 5; /news/ shows all.
+
+- date: 2026-08
+  text: >-
+    Field work at Crater Lake National Park, deploying SmartSolo nodal seismometers around the caldera.
+  image: /images/news/2026_08_crater_lake.jpg
+  caption: Chuanming and Leigh (M.S., 2026), and Zoe Zhou (Rice University) in the field at Crater Lake National Park.
+
+- date: 2026-04
+  text: >-
+    Our paper on layered seismic anisotropy and tectonics of the Anatolian Plate is published in
+    *Geophysical Research Letters*. [DOI](https://doi.org/10.1029/2025GL120326)
+    [PDF](/files/papers/Liu_2026_GRL_Anatolia.pdf)
+
+- date: 2026-04
+  text: >-
+    Presented "Layered Seismic Anisotropy and Tectonics of the Anatolian Plate" at the SSA Annual Meeting.
+
+- date: 2026
+  text: >-
+    Awarded a University of Missouri Research Council Grant for seismic imaging of residual magma
+    beneath Crater Lake volcano.
+
+- date: 2026-01
+  text: >-
+    Joined the Department of Geological Sciences at the University of Missouri–Columbia as an
+    Assistant Professor, teaching GEOL 1050 – Planet Earth in Spring 2026.
+
+- date: 2025-12
+  text: >-
+    Presented "Seismic Azimuthal Anisotropy across the Anatolian Plate" at the AGU Fall Meeting.
+
+- date: 2025-11
+  text: >-
+    Xin Liu's paper on Rayleigh and Love wave azimuthal anisotropy across Alaska is published in
+    *JGR: Solid Earth*. [DOI](https://doi.org/10.1029/2025JB032042)
+
+- date: 2024-11
+  text: >-
+    Our paper on seismic azimuthal anisotropy within the Juan de Fuca–Gorda plates is published in
+    *Geophysical Research Letters*. [DOI](https://doi.org/10.1029/2024GL111835)
